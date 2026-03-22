@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "gratif",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8e876187-0e1c-4261-b602-30505b75c0fb",
+			"database_name": "gratif-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
